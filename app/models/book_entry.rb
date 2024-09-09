@@ -1,0 +1,2 @@
+class BookEntry < ApplicationRecord
+end
